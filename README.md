@@ -22,8 +22,13 @@ Examples:Audio and images.
 ## Question 3
 A schema is a structured way of organizing information.
 
-| -Field name|-data type-| --description--|
-| Student_ID | Integer   | Unique number for each student |
-| Name       | Text      | Student's full name            |
-| Age        | Integer   | Student's age                  |
-| Course     | Text      | Course the student is studying |
+| Column Name | Key | Description                         |
+| ----------- | --- | ----------------------------------- |
+| CustomerID  | PK  | Unique identifier for each customer |
+| Name        |     | Customer's full name                |
+| Email       |     | Customer's email address            |
+
+| CustomerID | Name     | Email                                   |
+| ---------- | -------- | --------------------------------------- |
+| 101        | Jane Doe | [jane@email.com](mailto:jane@email.com) |
+| 102        | Mark Kim | [mark@email.com](mailto:mark@email.com) |
