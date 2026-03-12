@@ -34,7 +34,8 @@ A schema is a structured way of organizing information.
 | 102        | Mark Kim | [mark@email.com](mailto:mark@email.com) |
 
 **Bonus question**
-A list is an ordered  collection of items that you can access,update and iterate over.
 
-A dictionary is a data structure that stores information in key-value pairs.
+**A list**- is an ordered  collection of items that you can access,update and iterate over.
+
+**A dictionary**- is a data structure that stores information in key-value pairs.
 
