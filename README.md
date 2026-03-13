@@ -1,4 +1,4 @@
-# week4-ai-assignment# Week 4 Assignment
+# week4-ai-assignment
 
 Name: Dorine wangui kamande
 
