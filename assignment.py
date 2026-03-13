@@ -1,21 +1,22 @@
 # Question 4:
-I have created a file called assignment.py
+Write a python program that prints:Hello AI students.
 print("Hello AI students")
+ # Output:Hello AI students
 
 # Question 5:
 name = "John"
 age = 20
 city = "Nairobi"
 
-print("Name:", "John")
-print("Age:", 20)
-print("City:", "Nairobi")
+print("Name:", "Name")
+print("Age:", "Age")
+print("City:", "city")
 
 # Question 6:
 languages = ["Python", "Java", "C++", "JavaScript", "Go"]
 
-print(languages["python"])
-Python
+print(languages[0])
+
 
 # Question 7:
 student = {
@@ -25,7 +26,7 @@ student = {
 }
 
 print(student["name"])
-John
+
 
 
 
