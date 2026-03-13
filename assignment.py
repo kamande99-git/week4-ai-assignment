@@ -8,9 +8,9 @@ name = "John"
 age = 20
 city = "Nairobi"
 
-print("Name:", "Name")
-print("Age:", "Age")
-print("City:", "city")
+print(f"Name:", "Name")
+print(f"Age:", "Age")
+print(f"City:", "city")
 
 # Question 6:
 languages = ["Python", "Java", "C++", "JavaScript", "Go"]
